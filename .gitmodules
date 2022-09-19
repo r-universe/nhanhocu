@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "metamicrobiomeR"]
-	path = metamicrobiomeR
-	url = https://github.com/nhanhocu/metamicrobiomer
-	shallow = true
-	registered = true
